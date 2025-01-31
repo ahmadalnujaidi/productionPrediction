@@ -1,0 +1,10 @@
+
+pandas
+numpy
+joblib
+scikit-learn
+pydantic
+uvicorn
+openai
+nest_asyncio
+Flask
