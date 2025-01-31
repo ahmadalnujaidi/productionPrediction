@@ -1,0 +1,6 @@
+.venv
+cleaned_synthetic_data.csv
+defect_model.pkl
+delay_model.pkl
+feature_scaler.pkl
+.env
